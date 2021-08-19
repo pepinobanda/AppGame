@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.GameController" parent="@style/Theme.Leanback" />
+</resources>
